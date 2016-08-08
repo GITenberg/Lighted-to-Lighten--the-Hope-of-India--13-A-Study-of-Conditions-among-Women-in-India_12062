@@ -1,0 +1,27 @@
+_repo: Lighted-to-Lighten--the-Hope-of-India--13-A-Study-of-Conditions-among-Women-in-India_12062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Doren, Alice B. (Alice Boucher)
+    aliases:
+    - Doren, Alice B. Van
+    - Van Doren, A. B. (Alice Boucher)
+    gutenberg_agent_id: '4204'
+    url: http://www.gutenberg.org/2009/agents/4204
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- India'
+- !lcsh 'India -- Social conditions'
+- !lcc 'DS'
+- GITenberg
+title: "Lighted to Lighten: the Hope of India\r\nA Study of Conditions among Women\
+  \ in India"
+url: http://www.gutenberg.org/ebooks/12062
